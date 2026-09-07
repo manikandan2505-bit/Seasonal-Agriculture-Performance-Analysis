@@ -1,6 +1,6 @@
 # Seasonal Agriculture Performance Analysis 🌾
 
-## VOIS AICTE 2026–2027 – Major Project
+## VOIS AICTE Aug Batch 2026–2027 – Major Project
 
 A data analytics project focused on understanding how agricultural
 performance varies across different seasons.
@@ -127,6 +127,14 @@ resource and economic variables were investigated.
 
 ---
 
+##👨‍💻 Author
+
+Manikandan K
+VOIS AICTE Aug Batch 2026–2027
+
+---
+
+
 ## 📂 Project Structure
 
 ```text
@@ -136,7 +144,7 @@ Seasonal-Agriculture-Performance-Analysis/
 ├── seasonal_agriculture_performance_dataset.csv
 ├── README.md
 ├── requirements.txt
-│
+│── cleaned_agriculture_dataset.csv
 └── results/
     ├── 01_median_yield_by_season.png
     ├── 02_average_profit_by_season.png
